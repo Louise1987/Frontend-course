@@ -1,0 +1,11 @@
+.menuSection{
+	width: 50%;
+	padding: 10px;
+	border-style: solid #80848a 2px;
+}
+
+.calculate-button{
+	background-color: blue;
+	color: #ffffff;
+}
+

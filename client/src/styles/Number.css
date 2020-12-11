@@ -1,0 +1,32 @@
+.calc-form{
+	display: flex;
+	flex-direction: row;
+	max-height: 100%;
+}
+
+.calc-form__container{
+	display: flex;
+	flex-direction: row;
+}
+
+.calc-form__selector{
+	display: flex;
+	flex-direction: column;
+}
+
+.calc-form__calculate-cal--prenumber{
+	border: solid grey 2px;
+	width: 40%;
+	height: 50%;
+}
+
+.calc-form__section{
+	list-style: none;
+	width: 5%;
+}
+
+.calc-form__button{
+	background-color: blue;
+	color: #ffffff;
+	margin: 5%;
+}
